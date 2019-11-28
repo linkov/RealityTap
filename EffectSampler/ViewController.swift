@@ -34,7 +34,7 @@ class ViewController: UIViewController {
      @objc func handleTap(_ gesture: UITapGestureRecognizer) {
     
         
-        metalRenderer = RealityTap(view: self.mapView, effect: .shockwave)
+        metalRenderer = RealityTap(view: self.mapView, effect: .ripple)
         metalRenderer.realityTap(presentingView: self.mapView, gestureRecognizer: gesture)
         
     }

@@ -3,6 +3,8 @@ RealityTap
 
 Add Metal powered effects to your taps.
 
+![Effect 1](demo1.gif)
+![Effect 2](demo2.gif)
 
 #Usage
 
