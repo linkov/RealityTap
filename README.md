@@ -1,7 +1,7 @@
 RealityTap
 ==================
 
-The goal was to start learning [Metal](https://developer.apple.com/metal/) shaders in the context of a usual UIKit interaction. The repo will be updated with new shaders, feel free to contribute.🤘
+Let's learn [Metal](https://developer.apple.com/metal/) shaders in the context of a typical UIKit interaction. The repo will be updated with new shaders, feel free to contribute.🤘
 
 ![Effect 1](demo1.gif) ![Effect 2](demo2.gif)
 
